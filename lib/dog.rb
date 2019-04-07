@@ -6,6 +6,7 @@ class Dog
     @@all << self
   end
   
-  def 
+  def clear_all
+    
   
 end
